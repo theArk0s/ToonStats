@@ -1,0 +1,6 @@
+## Interface: 40000
+## Title: ToonStats
+## Notes: Based originally on TinyAttackPower by Showside and my follow-up mod RAPMonitor - Shows your current, most relevant paper doll stats (based on class & best-guess at spec) in a small, moveable frame.  Updates in real-time to show the effects of buffs, procs, etc.
+## Author: theArk0s, Roga on Mal'Ganis
+## Version: 4.0.1_r1
+ToonStats.lua
